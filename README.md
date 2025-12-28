@@ -8,7 +8,7 @@ Python implementations of classic AI search algorithms over a grid-based environ
 
 This repo focuses on \*\*correctness, optimality, and clean search logic\*\*—the kind of work that’s useful for
 
-technical interviews and foundational AI/algorithms understanding.
+foundational AI/algorithms understanding.
 
 
 
@@ -43,8 +43,6 @@ Uses \*\*Manhattan distance\*\* to the nearest goal (with a cap at 100), suitabl
 \## Files
 
 \- `Algorithms.py` — agent implementations (BFS / UCS / A\* / Weighted A\*)
-
-\- `dry.pdf` — written analysis \& answers (completeness, admissibility, complexity, comparisons)
 
 
 
